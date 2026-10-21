@@ -46,5 +46,9 @@
 > *High-Throughput Lakehouse Architecture & Cloud Data Engineering.*  
 > High-throughput transaction ingestion pipeline using PySpark with dual-storage persistence: analytical metrics in SQL/Parquet and raw audit events in MongoDB.
 
+#### 5. [Football Video Tactical Analysis & Performance Séquençage](https://github.com/adileldirissi/football-video-tactical-analysis)
+> *Football Video Analysis, Match Tagging & Coaching Staff Support.*  
+> Tactical match sequencing methodology (Kinovea, Computer Vision player tracking, event tagging matrix) delivering structured video clips (< 5 min) for youth academy and technical staff debriefings.
+
 ---
 ⚡ *Always open to discussing data engineering challenges, BI architecture, and analytics opportunities!*
