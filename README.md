@@ -31,15 +31,15 @@
 ### 🌟 Featured Projects
 
 #### 1. [Financial Audit Data Quality & Reconciliation Engine](https://github.com/adilelidrissi/financial-audit-reconciliation)
-> *Targeted for Audit & Financial Assurance Data Stewardship (e.g., Deloitte).*  
+> *Enterprise Financial Assurance & Accounting Integrity (Big 4 Standards).*  
 > Python & SQL validation framework enforcing double-entry ledger balance, duplicate invoice detection, and automated discrepancy reporting with an audit trail.
 
 #### 2. [FMCG Supply Chain & Production Performance Platform](https://github.com/adilelidrissi/fmcg-supply-chain-analytics)
-> *Targeted for Agro-Industrial & FMCG Operations (e.g., Lesieur Cristal).*  
+> *Agro-Industrial Manufacturing & Supply Chain Logistics (FMCG Production).*  
 > End-to-end star-schema data warehouse and advanced DAX library calculating Overall Equipment Effectiveness (OEE), Scrap Rates, and OTIF logistics metrics across regional hubs.
 
 #### 3. [Cloud-Native Transactional Data Lakehouse](https://github.com/adilelidrissi/cloud-data-pipeline-lakehouse)
-> *Targeted for Cloud Data Engineering Consulting (e.g., Data Reply).*  
+> *High-Throughput Lakehouse Architecture & Cloud Data Engineering.*  
 > High-throughput transaction ingestion pipeline using PySpark with dual-storage persistence: analytical metrics in SQL/Parquet and raw audit events in MongoDB.
 
 ---
